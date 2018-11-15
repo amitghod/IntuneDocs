@@ -140,7 +140,7 @@ You can create a custom role that includes any permissions required for a specif
 
 4. On the **Role Assignments** pane, enter a **Name** and optional **Description** for the assignment, and then choose the following:
 	- **Members** - Select a group that contains the user you want to give the permissions to.
-	- **Scope** - Select a group containing the users who the member above will be allowed to manage.
+	- **Scope** - Select a group containing the users/devices who the member above will be allowed to manage.
 <br></br>
 5. When you are done, click **OK**. The new assignment is displayed in the list of assignments.
 
